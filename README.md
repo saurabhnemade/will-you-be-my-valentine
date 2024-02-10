@@ -17,5 +17,9 @@ pnpm run dev
 ![image description](demo.gif)
 
 
+# How to deploy it
+```
+pnpm run deploy
+```
 
 Made with love in Berlin!❤️
